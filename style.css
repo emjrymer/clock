@@ -1,0 +1,26 @@
+body {
+    background-image: url('https://01.img.society6.com/society6/img/7uAWS_UNBdYxhQsa3v6uFzvu_3c/h_1080,w_1080/wall-clocks/front/natural/white/~artwork/s6-0016/a/5890114_12334719/~~/french-bulldog-wall-clock.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 70%;
+    background-color: #222;
+}
+.clockDisplay {
+    width: 550px;
+    position: relative;
+    font-size: 3em;
+    color: #fff;
+    margin: 100px auto;
+    padding: 0px;
+}
+.clockDisplay h2 {
+    position:absolute;
+    top: 10px;
+    left: 115px;
+    background-color: rgba(186,228,224,.2);
+    border-radius: 6px;
+    padding: 0px 25px;
+    font-family: 'Amatic SC', cursive;
+    box-shadow: 2px 2px 20px #222;
+    text-shadow: 2px 2px 20px #222;
+}
